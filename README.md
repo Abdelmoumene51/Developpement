@@ -1,2 +1,2 @@
-# Developpement
-Faciliter la location d'objets 
+# EDGAR
+Repository dedicated to EDGAR team
